@@ -43,6 +43,6 @@ print(count_vowels(""))  # Вывод: 0
 
 ## Структура проекта
 
-- main.py: Основной файл с функцией count_vowels.
-- test_main.py: Файл с тестами для функции count_vowels.
-- README.md: Файл с описанием проекта и инструкциями по установке и запуску.
+- [main.py](main.py): Основной файл с функцией count_vowels.
+- [test_main.py](test_main.py): Файл с тестами для функции count_vowels.
+- [README.md](README.md): Файл с описанием проекта и инструкциями по установке и запуску.
