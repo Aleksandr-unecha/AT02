@@ -27,7 +27,7 @@ def test_mixed_strings():
     """
     assert count_vowels("Hello World") == 3  # e, o, o
     assert count_vowels("Python Programming") == 4  # o, o, a, i
-    assert count_vowels("AI and Machine Learning") == 10  # A, I, a, i, e, a, i, e, i, o
+    assert count_vowels("AI and Machine Learning") == 9  # A, I, a, i, e, a, i, e, i
 
 def test_empty_string():
     """
